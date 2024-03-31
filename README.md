@@ -19,6 +19,7 @@
 ### Stimuli Metadata
 
 * Annotator data for marking visual emphasis and text emphasis elements across source data visualizations
+* Annotator takeaways used for comprehension check
 
 ### Study Methodology
 
@@ -27,17 +28,16 @@
 ### Study Results
 
 * Aggregate ranking data for Set A, Set B across all languages
-* Aggregate rating data for Set A, Set B across all languages (trust, diversity, 
-* SEM results for ranking (factor loadings, chi-squared, regression coefficients, significance, Cohen's f-squared)
-* Recall_Scores.xlsx: Contains ratings for aesthetics, perceived ease of use, and sentiment
-* Result-Analysis-Recall-Scores.pdf contains regression and cohen's d results for recall scores 
-* Result-Analysis-Ratings-Scores-Expt-1.pdf contains regression and cohen's d results for ratings scores for Expt 1
-* Result-Analysis-Ratings-Scores-Expt-2.pdf contains regression and cohen's d results for ratings scores for Expt 2
+* Aggregate rating data for Set A, Set B across all languages (trust, design-quality, engagement, comprehension check)
+* Aggregate pair-wise choice data for Set A, Set B across all languages
+* Aggregate coded data for likes/dislikes collection
+* SEM results over collected measures without moderators (factor loadings, chi-squared, regression coefficients, significance, Cohen's f-squared)
+* SEM results over collected measures with moderators (factor loadings, chi-squared, regression coefficients, significance, Cohen's f-squared)
 
-### Recall Examples
+### Coding of Likes/Dislikes
 
-* Examples of how recall data is coded for stimuli (1 from each category is exemplified)
+* Examples of how free response likes/dislikes are coded across languages
 
 ### Demographics
 
-* Demographic data of participants from Experiments 1 (prolific, 500 stimuli) and 2 (in-person, 100 stimuli)
+* Demographic data of participants from Experiments
